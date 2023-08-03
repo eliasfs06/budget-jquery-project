@@ -24,14 +24,8 @@ This is a simple application that utilizes JS and jQuery to perform product filt
 Follow the instructions below to set up and run the Product Filtering App on your local machine:
 
 1. Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/product-filtering-app.git
-   ```
 
 2. Navigate to the project directory:
-   ```
-   cd product-filtering-app
-   ```
 
 3. Open the `index.html` file in your preferred web browser.
 
